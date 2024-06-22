@@ -1,0 +1,82 @@
+[
+  {
+    "id": 368,
+    "name": "Aksesuar",
+    "parentId": null
+  },
+  {
+    "id": 403,
+    "name": "Ayakkabı",
+    "parentId": null
+  },
+  {
+    "id": 522,
+    "name": "Giyim",
+    "parentId": null
+  },
+  {
+    "id": 685,
+    "name": "Hobi & Eğlence",
+    "parentId": null
+  },
+  {
+    "id": 687,
+    "name": "Kitap",
+    "parentId": null
+  },
+  {
+    "id": 758,
+    "name": "Ev & Mobilya",
+    "parentId": null
+  },
+  {
+    "id": 790,
+    "name": "Otomobil & Motosiklet",
+    "parentId": null
+  },
+  {
+    "id": 1070,
+    "name": "Kozmetik & Kişisel Bakım",
+    "parentId": null
+  },
+  {
+    "id": 1071,
+    "name": "Elektronik",
+    "parentId": null
+  },
+  {
+    "id": 1216,
+    "name": "Kırtasiye & Ofis Malzemeleri",
+    "parentId": null
+  },
+  {
+    "id": 1219,
+    "name": "Süpermarket",
+    "parentId": null
+  },
+  {
+    "id": 2862,
+    "name": "Anne & Bebek & Çocuk",
+    "parentId": null
+  },
+  {
+    "id": 3186,
+    "name": "Spor & Outdoor",
+    "parentId": null
+  },
+  {
+    "id": 3981,
+    "name": "Ek Hizmetler",
+    "parentId": null
+  },
+  {
+    "id": 5558,
+    "name": "Bahçe & Elektrikli El Aletleri",
+    "parentId": null
+  },
+  {
+    "id": 5559,
+    "name": "Banyo Yapı & Hırdavat",
+    "parentId": null
+  }
+]

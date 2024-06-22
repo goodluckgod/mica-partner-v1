@@ -1,0 +1,21 @@
+[
+  { "path": "/", "title": "Anasayfa" },
+  {
+    "path": "/products",
+    "title": "Ürün",
+    "sub": [
+      { "path": "/products/list", "title": "Tüm Ürünler" },
+      { "path": "/products/create", "title": "Yeni Ürün Ekle" }
+    ]
+  },
+  {
+    "path": "/orders",
+    "title": "Sipariş",
+    "sub": [{ "path": "/orders", "title": "Tüm Siparişler" }]
+  },
+  {
+    "path": "/store",
+    "title": "Mağaza ve Müşteri",
+    "sub": [{ "path": "/store/questions/products", "title": "Ürün Soruları" }]
+  }
+]
